@@ -9,9 +9,7 @@ I am TurkeyDev!
 I work on many projects, most notably:
 
 [<img src="http://theturkey.dev/cc-logo" alt="Chance Cubes" width="128px" height="64px">](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
-
 [<img src="http://theturkey.dev/comz-logo" alt="Call of Minecraft: Zombies" width="128px" height="64px">](https://www.curseforge.com/minecraft/bukkit-plugins/call-duty-zombies)
-
 [<img src="http://theturkey.dev/ssb-logo" alt="Sport Scores Bot" width="128px" height="79px">](https://sportscoresbot.com/)
 
 
