@@ -8,7 +8,7 @@ I am TurkeyDev!
 
 I work on many projects, most notably:
 
-[![Chance Cubes](http://theturkey.dev/cc-logo)](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
+[![Chance Cubes](http://theturkey.dev/cc-logo =128x64)](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
 
 [Call of Minecraft: Zombies](https://www.curseforge.com/minecraft/bukkit-plugins/call-duty-zombies)
 
