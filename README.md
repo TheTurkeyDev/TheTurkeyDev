@@ -8,11 +8,11 @@ I am TurkeyDev!
 
 I work on many projects, most notably:
 
-![Chance Cubes](http://theturkey.dev/cc-logo =128x64)
+[<img src="http://theturkey.dev/cc-logo" alt="Chance Cubes" width="128px" height="64px">](https://www.curseforge.com/minecraft/mc-mods/chance-cubes)
 
-[Call of Minecraft: Zombies](https://www.curseforge.com/minecraft/bukkit-plugins/call-duty-zombies)
+[<img src="http://theturkey.dev/comz-logo" alt="Call of Minecraft: Zombies" width="128px" height="64px">](https://www.curseforge.com/minecraft/bukkit-plugins/call-duty-zombies)
 
-[Sport Scores Bot](https://sportscoresbot.com/)
+[<img src="http://theturkey.dev/ssb-logo" alt="Sport Scores Bot" width="128px" height="79px">](https://sportscoresbot.com/)
 
 
 I love doing weird and pointless things and building proof of concept ideas. Thanks for checking me out!
