@@ -6,7 +6,7 @@ I am TurkeyDev!
 - [🎥 Streamer](https://theturkey.dev/twitch)
 - [🔴 Youtuber](https://theturkey.dev/youtube)
 
-I work on many projects, most notably [Chance Cubes](https://www.curseforge.com/minecraft/mc-mods/chance-cubes), [Call of Minecraft: Zombies](https://www.curseforge.com/minecraft/bukkit-plugins/call-duty-zombies), and [Sport Scores Bot](https://sportscoresbot.com/).
+I work on many projects, most notably [![Chance Cubes](http://theturkey.dev/cc-logo)](https://www.curseforge.com/minecraft/mc-mods/chance-cubes), [Call of Minecraft: Zombies](https://www.curseforge.com/minecraft/bukkit-plugins/call-duty-zombies), and [Sport Scores Bot](https://sportscoresbot.com/).
 
 I love doing weird and pointless things and building proof of concept ideas. Thanks for checking me out!
 
