@@ -16,5 +16,6 @@ I work on many projects, most notably:
 I love doing weird and pointless things and building proof of concept ideas. Thanks for checking me out!
 
 ### Get In Touch:
-- [🐦 Twitter](https://trky.dev/twitter)
 - [🤖 Discord](https://discord.gg/DkexpJj)
+- [🦋 BlueSky](https://trky.dev/bsky)
+- [🐦 Twitter](https://trky.dev/twitter)
